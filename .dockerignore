@@ -1,0 +1,5 @@
+target
+.env
+.git
+web/node_modules
+src/main/resources/META-INF/resources

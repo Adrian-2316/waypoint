@@ -1,0 +1,6 @@
+target/
+.env
+web/node_modules/
+web/*.tsbuildinfo
+# Built from web/ by `npm run build`
+src/main/resources/META-INF/resources/
